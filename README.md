@@ -1,1 +1,1 @@
-# Simple Static Template
+# Simple Docusaurus Template
