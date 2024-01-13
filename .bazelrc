@@ -6,7 +6,7 @@ build:workflows --config=buildbuddy_remote_executor
 
 common --enable_bzlmod
 common --registry=file://%workspace%/registry
-common --registry=https://registry.build
+common --registry=https://registry.build/
 common --registry=https://bcr.bazel.build/
 
 # Uncomment if you want a local version of the genrules repo
